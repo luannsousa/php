@@ -1,5 +1,5 @@
 <?php
 
-echo 'kek';
+echo 'kek MAXIMUS';
 
 ?>
